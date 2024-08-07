@@ -12,7 +12,7 @@ I like making Website.
 
 
 ## ✉️ Reach me
-- [ramadhani97303@gmail.com](mailto:ramadhani97303@gmail.com)
+- [Gmail](mailto:ramadhani97303@gmail.com)
 
 <!--
 **MuhRamadhani/MuhRamadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
