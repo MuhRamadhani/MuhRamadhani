@@ -4,7 +4,7 @@ Muhammad Yusuf, 19 years old and I am a Web Dev
 A graduate of a SMKN 7 with a strong interest in technology, particularly Website development
 I like making Website.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,figma,flutter,github,php,py,replit)](https://skillicons.dev)
 
 <!--
 **MuhRamadhani/MuhRamadhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
