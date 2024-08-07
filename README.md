@@ -4,7 +4,7 @@
 A graduate of a SMKN 7 with a strong interest in technology, particularly Website development
 I like making Website.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,figma,flutter,github,php,py,replit&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,figma,flutter,github,php,py,replit,anaconda,javascript&perline=5)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=muhramadhani&label=Profile%20views&color=0e75b6&style=flat)
 
