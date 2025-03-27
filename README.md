@@ -1,6 +1,6 @@
 # Hello there ヾ(•ω•`) I'm Nur ✨
 
-**Muhammad Nur Ramadhani**, 19 years old and I am a **Web Dev**
+**Muhammad Nur Ramadhani**, 21 years old and I am a **Web Dev**
 A graduate of a SMKN 7 with a strong interest in technology, particularly Website development
 I like making Website.
 
